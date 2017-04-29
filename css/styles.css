@@ -1,0 +1,7 @@
+
+
+
+/* Responsive medias */
+@media (min-width: 768px) {
+    .navbar.nav-secondary {border-radius: 0;}
+}
